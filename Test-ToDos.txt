@@ -1,0 +1,19 @@
+Tests:
+- Grenzwerte testen (zum Beispiel: Wandlungsbetrag >= Bruttoeinkommen)
+- Bei einer Aufgabeaufforderung das richtige Format überprüfen. (Bspw. West oder Ost erwartet-> Eingabe Float)
+- Änderung des Regelwerks innerhalb der Grenzen [0,5] (Erwartet Zahl zwischen 0 und 5 -> Eingabe bspw. 6)
+- Berechnung überprüfen mit Hilfe realistischer Eingaben (Beispiel 1 und Beispiel 2 aus der Aufgabenstellung)  
+- Unit Tests ausarbeiten
+
+To Dos:
+- Details aus der Aufgabenstellung herausarbeiten [x]
+- Fragen klären [x]
+- Anforderungen detailliert erklären [teilw.]
+- Ausarbeitung des Aktivitätsdiagrams [x]
+- Aufteilung des Programms in einzelne Teile [x]
+- (1) Umsetzung der Programmteile - Berechnung [x]
+- (2) Umsetzung der Programmteile - Eingabeaufforderung [x]
+- (3) Umsetzung der Programmteile - Regeländerung [x]
+- Überprüfen der Funktionsweise durch Tests [teilw.]  
+- Ggf. protected und private Variablen zuweisen []
+- Einarbeitung Unit Tests []
